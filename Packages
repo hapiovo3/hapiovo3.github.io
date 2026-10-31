@@ -1,0 +1,18 @@
+Package: com.nahtedetihw.artfull
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: Ethan Whited
+Installed-Size: 268
+Pre-Depends: rootless-compat(>= 0.9)
+Depends:
+Filename: debs/ArtFull-1.2-iphoneos-arm64e.deb
+Size: 41616
+MD5sum: 19bef2861b2acc77fc6668f037a9b5ad
+SHA1: b344cac1e0a2c71eb36d66a69bb8cfaa450a6f8e
+SHA256: ebf38d83fa9a17b14efddf4bab4785deff84fe1176d44767d463e977b0ac3343
+SHA512: 8b63ba537c4dd59c55d590e8717b6fc362533e933f64b7ee86efc19eaec7fff1676587feba104e9ee9cea4161b9c2a2c7be746e3f26a67c703643bf5a330ef70
+Description: Make the Apple Music app look like iOS 17!
+Name: Artfull
+Author: Ethan Whited
+

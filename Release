@@ -1,0 +1,16 @@
+Origin: F
+Label: F
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: F
+Support: https://hapiovo3.github.io/
+Icon: https://hapiovo3.github.io/CydiaIcon.png
+MD5Sum:
+ fd154817acad4a2dd3489f2b496f7ff7  632 Packages
+ 66d14cb9c67aa7e1d5b6dbfe565d5a5b  462 Packages.gz
+SHA256:
+ 84fcf715ca8bae61221f8a826c3df332d528bf6cf4f9bfe1ec2b1b8dc7337f90  632 Packages
+ 6daedace615363da54d3c3cba08d42c26b5a0d76f98a80cd2758594c45a1079d  462 Packages.gz

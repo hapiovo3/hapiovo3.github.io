@@ -190,6 +190,30 @@ Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
+Package: com.touchWorld.bilibiliTweak
+Architecture: iphoneos-arm64e
+Version: 3.1.0
+Priority: optional
+Section: Tweaks
+Maintainer: TouchWorld
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts:
+Replaces:
+Filename: debs/com.touchworld.bilibilitweak_3.1.0_iphoneos-arm64e.deb
+Size: 228010
+MD5sum: 8df017ccea89d1f19c8e7bea907094ae
+SHA1: 55e7a2752a49df81b977fed90ff3ccde46da661a
+SHA256: 873ca66acde8e61a23fabbacf90ef0d9b6007ae300195ade9ab91070e26d3915
+SHA512: 294d12fb128125e18f0d8d825029f0b397854f722d1fb638d5bba431935d07bbde9039acb31fce0625614304667530f6a0828529c8e32e8aae744bd09c7a9b97
+Homepage: https://github.com/TouchFriend/BiliBiliTweak
+Description: 去除哔哩哔哩广告插件
+Name: BilibiliTweak
+Author: TouchWorld
+dev:
+Depiction:
+Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
+
 Package: com.wkk.aemulo
 Architecture: iphoneos-arm64e
 Version: 1.2.5

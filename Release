@@ -9,8 +9,8 @@ Description: F
 Support: https://hapiovo3.github.io/
 Icon: https://hapiovo3.github.io/CydiaIcon.png
 MD5Sum:
- e3af6f5267abea15630fdb87874d6758  11100 Packages
- 0432adc00fce5a394dd0a850b5d56dde  5063 Packages.gz
+ aa0c0c23aab4764cc17cf58c733c201f  11959 Packages
+ 844c53bf7483edbdfaa1ce64f5752f0a  5386 Packages.gz
 SHA256:
- 4117277a4b6e61f1538d151c86be895f1b4f6171cbe9ce70f8a40cf7c38a46bb  11100 Packages
- f4b91ee34e01ee5981608cff9e2c07e7573b3546383ffd9a73dc89701719b751  5063 Packages.gz
+ 179969c0cdd75111ba8fbe6b37c5cb18558e7cb2500498a19a2791742bd183ce  11959 Packages
+ b4a38b55b572693a2fbcd2c5beca3776aa29243e3019eee05fd3c37228a73abb  5386 Packages.gz

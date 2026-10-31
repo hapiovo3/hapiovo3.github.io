@@ -133,3 +133,22 @@ Name: Appdata
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 Author: Fouad Raheb
 
+Package: com.wkk.filzacrack
+Architecture: iphoneos-arm64e
+Version: 1.1-9
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.wkk.filzacrack_1.1-9_iphoneos-arm64e.deb
+Size: 39714
+MD5sum: f92cfd12b06818736287b6125151e664
+SHA1: 95ed36ec759ece16d2024afe35b082162ee9bab6
+SHA256: 9a156f4e44d05ef9b25e165b993de461fadc1f429031c984c1cd2d6700538e74
+SHA512: 20623f233b188b0cada8c89a8cf266b48496db169e05a844603800edcf9a5c176686c837c305c6eb381991b8532c32512b1113dc2a73bef6d6a0abc22f9ab987
+Description: Filza Crack
+Name: Filza Crack
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+

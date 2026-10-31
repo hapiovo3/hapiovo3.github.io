@@ -55,6 +55,26 @@ Description: Multiple containers for your applications!
 Name: Crane
 Author: opa334
 
+Package: aweme.x
+Architecture: iphoneos-arm64e
+Version: 2.6.2
+Section: Tweaks
+Maintainer: 𝙓
+Installed-Size: 11908
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.xx.dyhook
+Replaces: com.xx.dyhook
+Filename: debs/aweme.x_2.6.2_iphoneos-arm64e.deb
+Size: 10026258
+MD5sum: a24cace43a38cbb87665624242d0e52a
+SHA1: 8c28a4935d9d8036b79d8cc3f26c565c84055b55
+SHA256: c1d7e677f52d1cd3342912cb716b4b65153438c29589182493d952669b9d417a
+SHA512: 16b9bc7d8d560b2afe0d2e8f062fa3cdf280a7b2e374c8930b11e1cda9b5d09a780c96ace7719818621c41f4efd74a9068453d014716ee066ab71aab82942e9b
+Description: 自用
+Name: 抖音图层
+Author: 𝙓
+
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
 Version: 3.9.0-6

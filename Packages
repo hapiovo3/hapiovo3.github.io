@@ -74,6 +74,24 @@ Description: A smarter clipboard experience that stays close whenever you need i
 Name: Kayoko
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.crctdd.autocopyverify
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 740
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/com.crctdd.autocopyverify_0.0.5_iphoneos-arm64e.deb
+Size: 77020
+MD5sum: 9ea7f762e546d706a8a49948a783d3ad
+SHA1: d0bd720f438692d01fadac7343e8c2dd4e1345b7
+SHA256: 2679502f133174d7974d257037d8f12cccbb4a68e588661763995e99fbb1f711
+SHA512: 6c14897d14746b4803d6ed5f815d4cdd8334942f9101afeefb7e004b4b86c624b6f6a661415f1c7e3bbed7dd8bc2675e024d99c3874626121995213655f7f502
+Description: 自动复制短信、系统邮件、部分主流第三方邮件的验证码到剪切板，第三方邮件只能从临时通知框内获取，获取不到则无法复制；无设置项。（支持iOS 15-17）
+Name: Auto Copy Verify
+Author: crctdd
+icon: https://huayuarc.github.io/icon/disablecutpop.jpg
+
 Package: com.dvntm.cc18s
 Architecture: iphoneos-arm64e
 Version: 0.0.3

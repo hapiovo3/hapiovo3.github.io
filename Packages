@@ -113,28 +113,6 @@ Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
-Package: com.teslaman3092.16player
-Architecture: iphoneos-arm64e
-Version: 1.1
-Section: Tweaks
-Maintainer: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
-Installed-Size: 4460
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 14), firmware (<<16), preferenceloader
-Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.laughingquoll.quart, com.tako3s.printemps
-Filename: debs/com.teslaman3092.16player_1.1_iphoneos-arm64e.deb
-Size: 2515792
-MD5sum: 0e5112780c15f7b82c538d9651bd117d
-SHA1: 7a83949db1e0443ed0e463f4dcad60cc46578578
-SHA256: a4ab5820c4e2717fb8d2ec5765b2c803912294a57ed6703c78371346028d0418
-SHA512: eba7ef1241627fe2feea5881f473e5c39fdff8c1452af71445cd99c86af82768dba9a06bbb3822e2380b58742ad5ec822b4fe77a1b8e32ac21d7ce923372b947
-Description: 16Player - the best tweak to bring the iOS 16 lock screen music player to your iOS 14 or iOS 15 iPhone or iPad.
-Tag: cydia::commercial, compatible_min::ios14.0
-Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
-Name: 16Player
-Icon: https://img.chariz.cloud/icon/16player/icon@3x.png
-Depiction: https://chariz.com/buy/16player
-
 Package: com.wkk.aemulo
 Architecture: iphoneos-arm64e
 Version: 1.2.5

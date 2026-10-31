@@ -209,6 +209,23 @@ Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
+Package: com.t4mag0.safarimodernizer
+Architecture: iphoneos-arm64e
+Version: 1.0.1+ios15.5.rh1
+Section: Tweaks
+Maintainer: T4MAG0
+Installed-Size: 800
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 16.0)
+Filename: debs/com.t4mag0.safarimodernizer_1.0.1_ios15.5.rh1_iphoneos-arm64e.deb
+Size: 192486
+MD5sum: e3964da4a0bb091865993483e4ea5016
+SHA1: f6b6900ae68d1569a18de3c1e5e395e420f8bffd
+SHA256: 8f03c87913eaa3e597648f637934b73bf9d061fb2574ab51a7562d5303e2b230
+SHA512: 7b9c040233933690dfd0c9640fd700ba482c0d65101e2f551b14d1a11afaadd0f1514cb639ad826ef0cad553516e250d6d74f5c16c2a6dd576cd908bfb4da93e
+Description: Unofficial iOS 15.5 / RootHide compatibility rebuild of upstream 1.0.1. Makes newer websites work and look modern in Safari on iOS 15. Adds modern JavaScript and web features, rewrites modern CSS, works around Safari 15 security-policy bugs, runs sites that need import maps, and identifies as Safari 18.6 so sites send their modern pages. Hold two fingers on a page for 2 seconds (or add #smdebug to the address) to open the log and per-site settings.
+Name: SafariModernizer
+Author: T4MAG0
+
 Package: com.touchWorld.bilibiliTweak
 Architecture: iphoneos-arm64e
 Version: 3.1.0

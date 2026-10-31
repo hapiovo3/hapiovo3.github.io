@@ -74,3 +74,24 @@ Description: A smarter clipboard experience that stays close whenever you need i
 Name: Kayoko
 Author: 82Flex <82flex@gmail.com>
 
+Package: com.dvntm.cc18s
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Conflicts: com.dvntm.cc18
+Filename: debs/com.dvntm.cc18s_0.0.3_iphoneos-arm64e.deb
+Size: 4544
+MD5sum: f5eb712d42af75d0ee363b5fb90a7cc5
+SHA1: 1dfe77f440225dae8b7fb847d23a560dd3774f5c
+SHA256: 9f25cf9709e9410aa564b11a8c4f4f89e8aef3e1aaf4cc718c54e13e4460a1dc
+SHA512: 99065e0a23da8082807a878b77af3a5389cd1fc47b498d1538bf86205c1dcab6bc8b1eb172b837be9291a20cf12e05d139585f6605caa28e39799d7f84c8edb2
+Description: iOS 18 圆角控制中心
+ * Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
+SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
+

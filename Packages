@@ -54,3 +54,23 @@ Author: Mao
 Sponsor: admin@25mao.com
 icon: https://huayuarc.github.io/icon/leftPan.png
 
+Package: com.82flex.kayoko
+Architecture: iphoneos-arm64e
+Version: 4.3.3
+Section: Tweaks
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 3176
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko
+Filename: debs/com.82flex.kayoko_4.3.3_iphoneos-arm64e.deb
+Size: 672334
+MD5sum: 5a0c27fff32ba4610255186fb7b3f47b
+SHA1: f6148cd0b197613e3ea452c7ec1787657aa8b729
+SHA256: 3c8fca0ed58c07adc9374db9625118e093245abb93834b702e652382e479be3e
+SHA512: 6e6871641b642b3890d8c42b831fc1136927da18ce9cedac10ef47ae26080a316439ee96323d9ee594ad9d1401716e3650bbfc6b3b7440aeaff30a299e2bf5db
+Homepage: https://github.com/owngoal-dev/Kayoko
+Description: A smarter clipboard experience that stays close whenever you need it.
+Name: Kayoko
+Author: 82Flex <82flex@gmail.com>
+

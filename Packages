@@ -95,3 +95,22 @@ Author: dvntm
 icon: https://TrollStoreX.Github.io/sileodepiction/CC18/icon.png
 SileoDepiction: https://TrollStoreX.Github.io/sileodepiction/CC18/js.json
 
+Package: com.wkk.aemulo
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: 应用程序
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 2224
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/com.wkk.aemulo_1.2.5_iphoneos-arm64e.deb
+Size: 1573730
+MD5sum: 6b76e16755e855629f8d288c39b94d65
+SHA1: 720212f1b4d4274f6f11d47eb16eab8d57b449be
+SHA256: b84ef0e01cd24f9b08e7ce8adf769d836510bdea8af3e00b8875bd7ac5640c12
+SHA512: 6af653193b09f7693c1e7b41e392561b670456a38a1710ff181a872d22b7b8857288a6eff90bd187af30cd16aa812e199b39c357723c9e1f9c6eae02eaa065e8
+Description: NFC付费App纯净砸壳。
+Name: Aemulo
+Author: Amy While <support@anamy.gay>
+Icon: https://s1.imagehub.cc/images/2026/01/04/7c96709445ff5c46b3eec04f7863b889.png
+

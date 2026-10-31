@@ -1,3 +1,23 @@
+Package: com.bvn.16player.r2
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: BVN Repo
+Installed-Size: 1420
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, firmware (>= 14), firmware (<< 16), preferenceloader
+Conflicts: ch.mdaus.utils, com.johnzaro.perfectmusic13, com.p2kdev.tinywidget, com.laughingquoll.quart, com.tako3s.printemps, com.teslaman3092.16player, xyz.cypwn.16player
+Filename: debs/16Player_Roothide_-1.0.5-iphoneos-arm64e.deb
+Size: 385160
+MD5sum: 4256bcf71e3d79ac5996d4b6ee1da616
+SHA1: 61fe53a487ba22c64557d008072a689de6bb8b08
+SHA256: 4c0a04edb24aa4bba81aaf3ec97316fd3b1080686d163ae80340097517894999
+SHA512: b27846ce7cdff1e1adbc490b78845969cc0c34dcc4bf293f68981515891d1a08d98ea08c53f392ecd1bc11d2b8383abbfcb940d3626a03a508f5842ce62dddf4
+Description: 16Player - the best tweak to bring the iOS 16 lock screen music player to your iOS 14 or iOS 15 iPhone or iPad.
+Author: tesla_man, Bibi Fire <computerman939+16playersupport@gmail.com>
+Name: 16Player (Roothide)
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/tinhchinhh1.png
+
 Package: com.nahtedetihw.artfull
 Architecture: iphoneos-arm64e
 Version: 1.2

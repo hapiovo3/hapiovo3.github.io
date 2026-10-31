@@ -2,5 +2,9 @@
   "ArtFull-1.2-iphoneos-arm64e.deb": {
     "name": "Artfull",
     "desc": ""
+  },
+  "com.dvntm.cc18s_0.0.3_iphoneos-arm64e.deb": {
+    "name": "CC18",
+    "desc": ""
   }
 }

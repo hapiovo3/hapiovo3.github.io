@@ -10,5 +10,9 @@
   "com.wkk.aemulo_1.2.5_iphoneos-arm64e.deb": {
     "name": "Aemulo",
     "desc": ""
+  },
+  "com.wkk.appdata.iosdump_2.6.7_iphoneos-arm64e.deb": {
+    "name": "Appdata",
+    "desc": ""
   }
 }

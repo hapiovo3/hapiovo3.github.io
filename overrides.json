@@ -6,5 +6,9 @@
   "com.dvntm.cc18s_0.0.3_iphoneos-arm64e.deb": {
     "name": "CC18",
     "desc": ""
+  },
+  "com.wkk.aemulo_1.2.5_iphoneos-arm64e.deb": {
+    "name": "Aemulo",
+    "desc": ""
   }
 }

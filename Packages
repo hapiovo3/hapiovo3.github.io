@@ -214,6 +214,30 @@ dev:
 Depiction:
 Icon: https://touchfriend.github.io/depictions/com.touchWorld.bilibiliTweak/icon.png
 
+Package: com.touchworld.QQMusicPure
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Priority: optional
+Section: Tweaks
+Maintainer:
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts:
+Replaces:
+Filename: debs/com.touchworld.qqmusicpure_1.0.0_iphoneos-arm64e.deb
+Size: 9744
+MD5sum: f9cca63e938e367910e40ecf64ad73c1
+SHA1: fdae5de4d7cddc2d6e4827a42c8742f2e9079dc2
+SHA256: b343aeb235505a737cc1439e53fae805fecf5ae57a5e2f3133b0363258134b60
+SHA512: 07e9c1233b55cf1b76bc9fb78a35c5e675ae15c811b30cdadd63996944b21bf2581b2ab96917bc15fc3fe06e45dffa9e0ba467155c51ed2b06e2ff3b63c6a37b
+Homepage:
+Description: QQ音乐增强插件
+Name: QQMusicPure
+Author: touchWorld
+dev:
+Depiction:
+Icon:
+
 Package: com.wkk.aemulo
 Architecture: iphoneos-arm64e
 Version: 1.2.5
